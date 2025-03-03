@@ -55,6 +55,4 @@ etiquettes/
 ## 📜 Licence
 Ce projet est sous licence MIT. Vous pouvez l'utiliser et le modifier librement.
 
-## 📬 Contact
-Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter !
 
